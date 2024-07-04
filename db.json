@@ -1,0 +1,39 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRsbGZkcHZwdHh6ejV2d3J0Z3dvYnd2Y2hmamN0YWg2Ymt6djl0aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cLr29eETrZAyj3rF7W/giphy.webp",
+            "name": "Robin",
+            "explanation": "Leader of teen Titans",
+            "votes": 0
+        },
+        {
+            "id": 2,
+            "image": "https://media0.giphy.com/media/QvY0pn6Uo1gpyGnvd6/giphy.webp?cid=790b7611kno2fd6ab5nnw8bpc7rjd2c182qvy6ikkqjww3fo&ep=v1_stickers_search&rid=giphy.webp&ct=s",
+            "name": "Starfire",
+            "explanation": "The Calm one",
+            "votes": 0
+        },
+        {
+            "id": 3,
+            "image": "https://media1.giphy.com/media/NAgwSBfZoPuQwxrPge/giphy.webp?cid=790b7611ahtgpt1obyrkjhvjm9qhm2bd925m2r08y9wr9btc&ep=v1_stickers_search&rid=giphy.webp&ct=s",
+            "name": "Beast Boy",
+            "explanation": "Shape-shifter",
+            "votes": 0
+        },
+        {
+            "id": 4,
+            "image": "https://media2.giphy.com/media/S8wepOdCwBzcU99qzc/giphy.webp?cid=790b7611gy2hmbto5vi786v7rqrtofp74y10j6u0wec0tkmz&ep=v1_stickers_search&rid=giphy.webp&ct=s",
+            "name": "Raven",
+            "explanation": "Demon Princess",
+            "votes": 0
+        },
+        {
+            "id": 5,
+            "image": "https://media1.giphy.com/media/U85BeN6Z9AB7LOzUfF/giphy.webp?cid=790b7611zhcw9o5fjgcw1x0eh10jq5rlx296ket6jtxzgwoj&ep=v1_gifs_search&rid=giphy.webp&ct=g",
+            "name": "Cyborg",
+            "explanation": "Half-human, Half-robot",
+            "votes": 0
+        }
+    ]
+}
